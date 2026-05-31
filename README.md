@@ -114,6 +114,7 @@ PaaS、服务治理、CI/CD、消息与异步任务
 | [influxdata/kapacitor](https://github.com/influxdata/kapacitor) | InfluxData 的实时计算、告警与监控处理组件。 |
 | [sourcegraph/checkup](https://github.com/sourcegraph/checkup) | 分布式健康检查工具，适合做站点和服务可用性探测。 |
 | [rapidloop/rtop](https://github.com/rapidloop/rtop) | 基于 SSH 的轻量级远程服务器监控工具。 |
+| [kubestellar/console](https://github.com/kubestellar/console) | AI 驱动的多集群 Kubernetes 仪表盘，支持实时可观测性和 30+ CNCF 项目集成。CNCF Sandbox 项目。 |
 
 ## 网络与安全
 
