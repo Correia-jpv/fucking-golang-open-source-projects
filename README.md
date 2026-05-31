@@ -2,8 +2,9 @@
 
 面向中文读者重新整理的 Go 开源项目目录。新版目录不再追求“尽可能全”，而是优先保留仍在维护、社区认知清晰、适合学习和选型的项目，并补充了 AI Agent 相关项目。
 
-当前版本收录 **75** 个项目，分成 **10** 个主题；最近一次维护状态审阅时间为 **2026-03-06**。
+当前版本收录 **77** 个项目，分成 **10** 个主题；最近一次维护状态审阅时间为 **2026-03-06**。
 
+- [English version](README_EN.md)
 - [分类与维护策略](docs/分类与维护策略.md)
 - [移除与迁移记录](docs/移除与迁移记录.md)
 
@@ -25,11 +26,11 @@
 
 | 分类 | 关注点 | 项目数 |
 | --- | --- | --- |
-| AI / Agent | LLM 应用框架、MCP、模型运行时与向量能力 | 7 |
+| AI / Agent | LLM 应用框架、MCP、模型运行时与向量能力 | 8 |
 | 云原生与容器 | 容器运行时、编排、镜像仓库和集群平台 | 8 |
 | 服务治理与平台工程 | PaaS、服务治理、CI/CD、消息与异步任务 | 12 |
 | 数据存储与搜索 | 数据库、分布式存储、检索与数据访问生态 | 10 |
-| 可观测性 | 指标、图表、告警与运行状态检查 | 5 |
+| 可观测性 | 指标、图表、告警与运行状态检查 | 6 |
 | 网络与安全 | 网关、负载均衡、代理、流量调试与网络工具 | 6 |
 | Web 开发与应用 | Web 框架、服务端组件与实时交互能力 | 11 |
 | 数据处理与机器学习 | ML、NLP、爬虫与数据处理 | 6 |
@@ -49,8 +50,7 @@ LLM 应用框架、MCP、模型运行时与向量能力
 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | OpenAI 兼容的本地推理服务，适合私有化部署。 |
 | [mudler/LocalAGI](https://github.com/mudler/LocalAGI) | 面向本地模型的 Agent 平台，强调工具调用和自治流程。 |
 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | Go 编写的向量数据库，可用于 RAG、检索和 Agent memory。 |
-| [pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) | Go 编写的 Agent 平台，提供 Py/Js 工具接口，与错误记忆与自动修正 |
-
+| [pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) | Go 编写的 Agent 平台，提供 Py/Js 工具接口、错误记忆与自动修正能力。 |
 
 ## 云原生与容器
 

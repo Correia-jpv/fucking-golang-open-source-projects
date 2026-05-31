@@ -54,6 +54,11 @@
           "name": "Weaviate",
           "repo": "weaviate/weaviate",
           "desc": "Go 编写的向量数据库，可用于 RAG、检索和 Agent memory。"
+        },
+        {
+          "name": "Agenvoy",
+          "repo": "pardnchiu/Agenvoy",
+          "desc": "Go 编写的 Agent 平台，提供 Py/Js 工具接口、错误记忆与自动修正能力。"
         }
       ]
     },
@@ -257,6 +262,11 @@
           "name": "rtop",
           "repo": "rapidloop/rtop",
           "desc": "基于 SSH 的轻量级远程服务器监控工具。"
+        },
+        {
+          "name": "KubeStellar Console",
+          "repo": "kubestellar/console",
+          "desc": "AI 驱动的多集群 Kubernetes 仪表盘，支持实时可观测性和 30+ CNCF 项目集成。CNCF Sandbox 项目。"
         }
       ]
     },
