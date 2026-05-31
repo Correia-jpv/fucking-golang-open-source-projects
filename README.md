@@ -49,6 +49,8 @@ LLM 应用框架、MCP、模型运行时与向量能力
 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | OpenAI 兼容的本地推理服务，适合私有化部署。 |
 | [mudler/LocalAGI](https://github.com/mudler/LocalAGI) | 面向本地模型的 Agent 平台，强调工具调用和自治流程。 |
 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | Go 编写的向量数据库，可用于 RAG、检索和 Agent memory。 |
+| [pardnchiu/Agenvoy](https://github.com/pardnchiu/Agenvoy) | Go 编写的 Agent 平台，提供 Py/Js 工具接口，与错误记忆与自动修正 |
+
 
 ## 云原生与容器
 
