@@ -52,6 +52,7 @@ func main() {
 	b.WriteString(data.Description)
 	b.WriteString("\n\n")
 	b.WriteString(fmt.Sprintf("当前版本收录 **%d** 个项目，分成 **%d** 个主题；最近一次维护状态审阅时间为 **%s**。\n\n", total, len(data.Categories), data.UpdatedAt))
+	b.WriteString("- [English version](README_EN.md)\n")
 	b.WriteString("- [分类与维护策略](docs/分类与维护策略.md)\n")
 	b.WriteString("- [移除与迁移记录](docs/移除与迁移记录.md)\n\n")
 
